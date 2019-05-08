@@ -1,5 +1,6 @@
 This is test file from Vim editor
 Sample edit on the file to make sure it gets merge conflict.
 Added new line 
+added third line
 Added 2nd line
 added 4th line
